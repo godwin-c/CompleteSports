@@ -1,0 +1,60 @@
+{
+  "files": [
+    {
+      "title": "News",
+      "url": "https://www.completesportsnigeria.com/feed/"
+    },
+    {
+      "title": "Stars Abroad",
+      "url": "https://www.completesportsnigeria.com/category/nigerian-footballers-abroad/feed/"
+    },
+    {
+      "title": "EPL News",
+      "url": "https://www.completesportsnigeria.com/category/world-football/epl-news/feed/"
+    },
+    {
+      "title": "Bundesliga News",
+      "url": "https://www.completesportsnigeria.com/category/world-football/bundesliga-news/feed/"
+    },
+    {
+      "title": "La Liga News",
+      "url": "https://www.completesportsnigeria.com/category/world-football/la-liga-news/feed/"
+    },
+    {
+      "title": "Serie A News",
+      "url": "https://www.completesportsnigeria.com/category/world-football/serie-a-news/feed/"
+    },
+    {
+      "title": "Ligue 1 News",
+      "url": "https://www.completesportsnigeria.com/category/world-football/ligue-1-news/feed/"
+    },
+    {
+      "title": "UCL News",
+      "url": "https://www.completesportsnigeria.com/category/world-football/ucl-news/feed/"
+    },
+    {
+      "title": "World Cup",
+      "url": "https://www.completesportsnigeria.com/category/competitions/world-cup/feed/"
+    },
+    {
+      "title": "Afcon",
+      "url": "https://www.completesportsnigeria.com/category/competitions/afcon/feed/"
+    },
+    {
+      "title": "Chan",
+      "url": "https://www.completesportsnigeria.com/category/competitions/chan/feed/"
+    },
+    {
+      "title": "CAF Champions League",
+      "url": "https://www.completesportsnigeria.com/category/competitions/caf-champions-league/feed/"
+    },
+    {
+      "title": "Sports Extra",
+      "url": "https://www.completesportsnigeria.com/category/sports-news-extra/feed/"
+    },
+    {
+      "title": "Features",
+      "url": "https://www.completesportsnigeria.com/category/features/feed/"
+    }
+  ]
+}

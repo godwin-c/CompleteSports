@@ -1,0 +1,60 @@
+{
+  "files": [
+    {
+      "title": "News",
+      "url": "https://www.completesportsnigeria.com/int/feed/"
+    },
+    {
+      "title": "Rugby Union",
+      "url": "https://www.completesportsnigeria.com/int/category/rugby/rugby-union/feed/"
+    },
+    {
+      "title": "Olympics",
+      "url": "https://www.completesportsnigeria.com/int/category/competitions-int/olimpics/feed/"
+    },
+    {
+      "title": "Bundesliga News",
+      "url": "https://www.completesportsnigeria.com/int/category/football/bundesliga-int/feed/"
+    },
+    {
+      "title": "La Liga News",
+      "url": "https://www.completesportsnigeria.com/int/category/football/la-liga-int/feed/"
+    },
+    {
+      "title": "Serie A News",
+      "url": "https://www.completesportsnigeria.com/int/category/football/serie-a-int/feed/"
+    },
+    {
+      "title": "Ligue 1 News",
+      "url": "https://www.completesportsnigeria.com/int/category/football/ligue-1-news-int/feed/"
+    },
+    {
+      "title": "UCL News",
+      "url": "https://www.completesportsnigeria.com/int/category/football/ucl-int/feed"
+    },
+    {
+      "title": "MLS News",
+      "url": "https://www.completesportsnigeria.com/int/category/football/mls/feed/"
+    },
+    {
+      "title": "Transfers",
+      "url": "https://www.completesportsnigeria.com/int/category/transfer/feed/"
+    },
+    {
+      "title": "NBA",
+      "url": "https://www.completesportsnigeria.com/int/category/basketball-int/nba/feed/"
+    },
+    {
+      "title": "Life Style",
+      "url": "https://www.completesportsnigeria.com/int/category/lyfestyle-int/feed/"
+    },
+    {
+      "title": "Fitness",
+      "url": "https://www.completesportsnigeria.com/int/category/fitness/feed/"
+    },
+    {
+      "title" : "Football",
+      "url" : "https://www.completesportsnigeria.com/int/category/football/feed/"
+    }
+  ]
+}
